@@ -1,13 +1,3 @@
-#Ok cool ,lets start with simple blendshape tool that I need
-#Can we add buttons to the UI?
-#Functionality
-#1. Delete all blendshapes
-#2. Rename blendshapes - where I can enter searched substring and the desired substring to search with
-
-#so if the shape key name - left_eye_brows_boom
-#if the searched substring is "boom" and the desired is "zoom"
-#everywhere you find boom should be replaced with zoom
-
 bl_info = {
     "name": "Bmesh playground", 
     "author": "Mirkan(Raq)",
